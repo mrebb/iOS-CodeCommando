@@ -1,0 +1,44 @@
+{
+  "name": "CodeCommando",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "expo": "^30.0.1",
+    "react": "16.6.0-alpha.8af6728",
+    "react-monaco-editor": "^0.18.0",
+    "react-native": "0.57.3",
+    "react-native-awesome-alerts": "^1.1.1",
+    "react-native-config": "^0.11.5",
+    "react-native-dotenv": "^0.2.0",
+    "react-native-drawer": "^2.5.1",
+    "react-native-elements": "^0.19.1",
+    "react-native-fontawesome": "^5.7.0",
+    "react-native-loading-spinner-overlay": "^0.5.2",
+    "react-native-material-textfield": "^0.12.0",
+    "react-native-render-html": "^3.10.0",
+    "react-native-router-flux": "^4.0.2",
+    "react-native-select-input-ios": "^1.2.0",
+    "react-native-side-menu": "^1.1.3",
+    "react-native-vector-icons": "^5.0.0",
+    "react-navigation": "^2.18.0",
+    "react-navigation-redux-helpers": "^2.0.5",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0",
+    "redux-devtools-extension": "^2.13.5",
+    "redux-thunk": "^2.3.0",
+    "whatwg-fetch": "^2.0.4"
+  },
+  "devDependencies": {
+    "babel-jest": "23.6.0",
+    "jest": "23.6.0",
+    "metro-react-native-babel-preset": "0.48.1",
+    "react-test-renderer": "16.6.0-alpha.8af6728"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
