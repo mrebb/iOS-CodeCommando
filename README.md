@@ -2,7 +2,7 @@
  
 ### Instructor's super handy mobile app.
 
-**Version**: 1.0 Our first release of the Code Commando iOS application built using React Native & XCode
+**Version**: 1.0 First release of the Code Commando iOS application built using React Native & XCode
 ***
 
 
@@ -49,5 +49,5 @@ Instructors had to visit multiple resources or perform various steps to look up 
 * XCode
 * iOS
 
-## How to Use Our App
-  * pushing to apple store is pending. Will post the iOS app store link once ready. 
+## How to Use App
+  * Pushing the app to Apple store is pending. Will post the iOS app store link once ready. 
